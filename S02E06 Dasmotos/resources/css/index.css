@@ -1,0 +1,28 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+.header {
+	font-size: 100px;
+	color: khaki;
+	text-align: center;
+	background-image: url('../images/pattern.jpeg');
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.skyblu {	background-color: skyblue;	}
+.litcrl {	background-color: lightcoral;	}
+.medgrn {	background-color: mediumspringgreen;	}
+
+.price {
+	color: blue;
+}
+
+.banner {
+	font-size: 32px;
+	color: white;
+	padding-left: 10px;
+}
